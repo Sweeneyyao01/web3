@@ -1,29 +1,5 @@
-<h1 align="center">通用web3科学家脚本组件库</h1>
-
-<div align=center><img src="https://raw.githubusercontent.com/COINsciencer/web3/main/logowz.png" width="200"></div>
- <h3 align="center">币圈科学家旺仔</h3>
-<h1 align="center">[TG频道](https://t.me/coinSciener)</h1>
-
-
  
 通用web3组件库，基于网络开源代码以及自己日常使用所修改完善。
-
-后面我把我这一些可以开源的项目脚本陆陆续续也加进去
-
-有能力开发的可以直接复用
-
-可在此基础上完成90%的科学家脚本开发。
-
-关注 币圈科学家旺仔 
-
-更多一手币圈源码项目分享
-
-助你轻松千号空投，早日A8。
-
-youtube https://www.youtube.com/@chainsci/videos
-twitter  https://twitter.com/howbuybtc
-
-无需再重复造轮子了。
 
 ## 全自动支持路径
 
@@ -88,6 +64,4 @@ pip install -r requirements.txt
 
 4. Modules配置modules_settings.py
 
-
-   ![1](https://raw.githubusercontent.com/COINsciencer/web3/main/photo_2024-03-24_22-37-52.jpg)
  
